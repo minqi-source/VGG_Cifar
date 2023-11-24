@@ -1,2 +1,2 @@
 # VGG_Cifar
-A simple implementation of VGG and cnn.
+A simple implementation of vgg and cnn.
